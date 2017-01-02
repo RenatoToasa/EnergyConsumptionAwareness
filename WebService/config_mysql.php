@@ -7,8 +7,8 @@ define('HOST','127.0.0.1:3306');
 define('USER','root');
 //password
 //define('PASS','123456');
-define('PASS','mysql12345');
+define('PASS','smartgas');
 //Base de datos
 //define('DB','1251018');
-define('DB','energy_consumption_database');
+define('DB','energy');
 ?>
